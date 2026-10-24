@@ -15,9 +15,13 @@ I'm a Computer Science student interested in software development, data analytic
 ## 🛠️ Tools & Technologies
 
 ### 💻 Programming Languages
+
+### 💻 Programming Languages & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql" alt="C++, Python and MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
+
 
 ### 🔧 Development Tools
 <p align="left">
