@@ -12,11 +12,29 @@ I'm a Computer Science student interested in software development, data analytic
 
 ### 🛠️ Technical Skills
 
-**Languages:** C++, Python
+## 🛠️ Tools & Technologies
 
-**Tools & Technologies:** Git, GitHub, VS Code, Jupyter Notebook, Cisco Packet Tracer,My SQL, Power BI (learning)
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python" />
+</p>
 
-**Areas of Interest:** Software Development, Data Analytics, Machine Learning, Computer Networks
+### 🔧 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+### 📊 Data Analytics & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+</p>
+
+### 🌐 Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+</p>
 
 ### 🚀 Projects
 
