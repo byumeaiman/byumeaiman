@@ -1,4 +1,4 @@
-# Hi, I'm Ume Aiman 👋
+# Hi, I'm Ume Aiman 
 
 ### BSCS Student | Aspiring Software Developer
 
@@ -10,9 +10,9 @@ I'm a Computer Science student interested in software development, data analytic
 - 🌱 Continuously learning and building projects
 - 📌 Interested in software development and real-world problem solving
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ### 💻 Programming Languages
 
@@ -23,7 +23,7 @@ I'm a Computer Science student interested in software development, data analytic
 </p>
 
 
-### 🔧 Development Tools
+###  Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
@@ -40,7 +40,7 @@ I'm a Computer Science student interested in software development, data analytic
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
 
-### 🚀 Projects
+###  Projects
 
 - **Smart Course Recommendation System** — A Python-based project designed to recommend courses using student interests, performance, and learning goals.
 - **Breast Cancer Classification using Naive Bayes** — A machine learning project exploring classification and model evaluation.
